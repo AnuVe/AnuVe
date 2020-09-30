@@ -1,4 +1,4 @@
-### Hi there. Myself Anushka Verma 👋
+### Hi there 👋
 
 - 👯 I’m looking to collaborate on Flutter Applications.
 
